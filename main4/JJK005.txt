@@ -1,9 +1,0 @@
-{
-	"status": true,
-    "data": {
-	
-    "aaData": [
-        {  "image": "http://cyclonmaster.github.io/pages/wip.png", "order": 1  }        
-    ]
-	}
-}
